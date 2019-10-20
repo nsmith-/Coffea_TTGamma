@@ -1,5 +1,6 @@
 Files
 *.root
+!ScaleFactors/MuEGammaScaleFactors/*/*root
 *.pdf
 *.png
 *~
